@@ -6,9 +6,9 @@
 	--main-color:#df003a;
 	--light-color:#fff;
 
-	--body-fontface:'Poppins', sans-serif;
-	--title-fontface:'Universal Serif';
-	--subtitle-fontface:'Planet Gamers';
+	--body-fontface:'Roboto', sans-serif;
+	--title-fontface:'Roboto', sans-serif;
+	--subtitle-fontface:'Roboto', sans-serif;
 }
 
 
@@ -196,7 +196,7 @@ header nav .container {align-items: flex-start !important;margin-top: 28px;}
 header nav .navbar-collapse {align-items: start;}
 header .navbar-brand {position:relative;left: -44px;top: -42px;}
 
-header nav li a {font-family: var(--subtitle-fontface);font-size: 22px;text-transform: uppercase;padding-left: 20px !important;padding-right: 20px !important;color: #F3EEDA !important;padding-bottom: 9px !important;}
+header nav li a {font-family: var(--subtitle-fontface);font-size: 16px;text-transform: uppercase;padding-left: 20px !important;padding-right: 20px !important;color: white !important;padding-bottom: 9px !important;}
 header nav li a.dropdown-toggle img {vertical-align:0px;display: inline-block;margin-left: 8px;}
 header nav li a.dropdown-toggle::after {display:none}
 header nav li a.active, header nav li a:hover {
