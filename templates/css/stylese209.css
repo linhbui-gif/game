@@ -230,7 +230,7 @@ header nav li a.active::after {content:'';position: absolute;bottom:0;left: 0;ri
 
 /* PLAYNOW */
 
-.playnow {padding-top: 160px;background: #0c1224; padding-bottom: 30px;}
+.playnow {padding-top: 160px;background: #0c1224; padding-bottom: 30px; background: url('../images/playnow-bg.jpg') no-repeat center center;background-size: cover;}
 .playnow .img-1 {margin: 0 auto 40px;max-width: 360px;}
 .playnow .img-2 {max-width: 244px;margin: 0 auto 0px;}
 .playnow .img-3 {width: 168px;margin: 0 auto;}
